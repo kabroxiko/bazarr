@@ -8,6 +8,13 @@
       "lastUpdated": "2021-02-23T11:20:48.768Z"
     },
     {
+      "name": "testing",
+      "version": "",
+      "commit": "",
+      "upstream": "",
+      "lastUpdated": ""
+    },
+    {
       "name": "nightly",
       "version": "8a5d253d5526146d4a943a6ae7ddba067e4c2541",
       "commit": "e3344bf",
