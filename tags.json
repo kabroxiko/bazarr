@@ -2,10 +2,10 @@
   "tags": [
     {
       "name": "release",
-      "version": "",
-      "commit": "",
+      "version": "0.9.1",
+      "commit": "2ba0fb8",
       "upstream": "GitHub releases",
-      "lastUpdated": ""
+      "lastUpdated": "2021-02-23T11:20:48.768Z"
     },
     {
       "name": "nightly",
