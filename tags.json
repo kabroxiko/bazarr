@@ -1,19 +1,18 @@
 {
-    "tags": [
-      {
-        "name": "release",
-        "version": "",
-        "commit": "",
-        "upstream": "GitHub releases",
-        "lastUpdated": ""
-      },
-      {
-        "name": "nightly",
-        "version": "",
-        "commit": "",
-        "upstream": "Every commit to development branch",
-        "lastUpdated": ""
-      }
-    ]
-  }
-  
+  "tags": [
+    {
+      "name": "release",
+      "version": "",
+      "commit": "",
+      "upstream": "GitHub releases",
+      "lastUpdated": ""
+    },
+    {
+      "name": "nightly",
+      "version": "8a5d253d5526146d4a943a6ae7ddba067e4c2541",
+      "commit": "e3344bf",
+      "upstream": "Every commit to development branch",
+      "lastUpdated": "2021-02-23T10:56:27.542Z"
+    }
+  ]
+}
