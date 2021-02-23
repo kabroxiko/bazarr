@@ -1,0 +1,19 @@
+{
+    "tags": [
+      {
+        "name": "release",
+        "version": "",
+        "commit": "",
+        "upstream": "GitHub releases",
+        "lastUpdated": ""
+      },
+      {
+        "name": "nightly",
+        "version": "",
+        "commit": "",
+        "upstream": "Every commit to development branch",
+        "lastUpdated": ""
+      }
+    ]
+  }
+  
