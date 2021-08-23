@@ -16,10 +16,10 @@
     },
     {
       "name": "nightly",
-      "version": "0.9.8-beta.6",
-      "commit": "dc78c79",
+      "version": "0.9.8-beta.7",
+      "commit": "fec2b95",
       "upstream": "Pre-releases",
-      "lastUpdated": "2021-08-22T06:38:33.363Z"
+      "lastUpdated": "2021-08-23T06:38:43.820Z"
     }
   ],
   "pulls": 10773950,
